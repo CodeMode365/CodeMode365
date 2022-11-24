@@ -5,7 +5,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javascript,Php, Nodejs, Mysql, HTML, figma and Css are the technologies languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javascript,Php, Nodejs, Mysql, HTML, figma,Ms office, photoshop and Css are the technologies that I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and Web development**
 - 🌱 I’m currently learning ...
   - Flutter
