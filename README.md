@@ -41,7 +41,7 @@ __Check out my GitHub repository:__
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
+<!--   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
   
@@ -49,7 +49,7 @@ __Check out my GitHub repository:__
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
-
+ -->
 ---------------------------------------------------------------------------------------------------------------------
 Credits: <a href="https://github.com/CodeMode365">CodeMode365</a>
 
