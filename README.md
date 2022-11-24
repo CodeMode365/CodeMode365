@@ -1,5 +1,5 @@
-# Hi there 👋, Bhargavi here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+# Hi there 👋, CodeMode365(Pabin). 
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/> -->
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,16 +9,16 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javascript, HTML, and Css are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and Web development**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - Flutter
+  - Js frameworks
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
-
+- Outside tech, 📖 I love to play music and make musics, play different mucal instruments, 🎵 listen to music, and 🌴 explore nature outdoors.
+<!-- - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a> -->
+<!-- 
 __Check out my GitHub repository:__
 
 <div>
@@ -31,7 +31,7 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
-
+ -->
 
 <h2>👀 My github Stats</h2>
 
@@ -51,6 +51,6 @@ __Check out my GitHub repository:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
+Credits: <a href="https://github.com/CodeMode365">CodeMode365</a>
 
-Date: 18/11/2021
+Date: 21/11/2022
