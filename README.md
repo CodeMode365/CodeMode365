@@ -14,6 +14,12 @@ I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javas
   - Backend
   - Web designing
  Most preferred Tech compintaion: MERN stack 
+ ## My Weapons 🌟
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&theme=react)](https://github.com/codemode365/github-readme-stats)
+
+<br>
+ 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to play music and make musics, play different musical instruments, 🎵 listen to music, and 🌴 explore nature outdoors.
