@@ -13,13 +13,13 @@ I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javas
   - Frontend
   - Backend
   - Web designing
- Most preferred Tech compintaion: MERN stack 
+ # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&theme=react)](https://github.com/codemode365/github-readme-stats)
 
 <br>
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=codemode365&theme=react-dark)
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=TidbitsJS&theme=react-dark)
 <br>
  
 - 👯 I’m looking forward to collaborate on open source projects.
