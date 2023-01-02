@@ -13,6 +13,7 @@ I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javas
   - Frontend
   - Backend
   - Web designing
+ Most preferred Tech compintaion: MERN stack 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to play music and make musics, play different musical instruments, 🎵 listen to music, and 🌴 explore nature outdoors.
