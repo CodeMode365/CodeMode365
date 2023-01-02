@@ -19,7 +19,9 @@ I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&theme=react)](https://github.com/codemode365/github-readme-stats)
 
 <br>
-[![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=codemode365&theme=react-dark)]
+<br>
+
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=codemode365&theme=react-dark)
 <br>
  
 - 👯 I’m looking forward to collaborate on open source projects.
