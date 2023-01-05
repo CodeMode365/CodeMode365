@@ -8,11 +8,10 @@
 I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javascript,Typescript, Php, Nodejs, Mysql, HTML, figma,Ms office, photoshop and Css are the technologies that I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and Web development**
 - 🌱 I’m currently learning ...
-  - Web development
-  - Js frameworks
-  - Frontend
-  - Backend
-  - Web designing
+  - Js frameworks (Reactjs, Nextjs)
+  - Frontend (HTML,Css, JS,TS, React)
+  - Backend (Nodejs, Mongodb)
+  - Web designing (figma)
   - Graphic Design(Illustrator, Ps, Design)
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
