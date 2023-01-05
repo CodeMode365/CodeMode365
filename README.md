@@ -13,6 +13,7 @@ I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javas
   - Frontend
   - Backend
   - Web designing
+  - Graphic Design(Illustrator, Ps, Design)
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
 
