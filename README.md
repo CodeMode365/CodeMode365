@@ -32,7 +32,7 @@ I am an undergraduate Diploma Computer Engineering Student at KIT. C, C++, Javas
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to play music and make musics, play different musical instruments, 🎵 listen to music, and 🌴 explore nature outdoors.
 - Reach me at: codemode365@gmail.com
-- Find me on <a href="https://www.linkedin.com/in/pabin-dhami-ab29b024a/">Linked</a>
+- Find me on <a href="https://www.linkedin.com/in/pabin-dhami-ab29b024a/">Linkedin</a>
 
 
 ---------------------------------------------------------------------------------------------------------------------
