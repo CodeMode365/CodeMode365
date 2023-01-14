@@ -11,7 +11,7 @@ I am an undergraduate Diploma in Computer in Engineering Student at KIT. C, C++,
   - Js frameworks (Reactjs, Nextjs)
   - Frontend (HTML,Css, JS,TS, React)
   - Backend (Nodejs, Mongodb)
-  - Web designing (figma)
+  - Web designing (figma, Adobe XD)
   - Graphic Design(Illustrator, Ps, Adobe Design)
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
