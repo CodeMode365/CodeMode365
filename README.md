@@ -1,9 +1,8 @@
 # Hi there 👋,I'm CodeMode365(Pabin). 
 
 
-<!-- <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> -->
-[![noBg.gif](https://i.postimg.cc/T2m545S4/noBg.gif)](https://postimg.cc/3W8wyN3X)
-<!-- <img align="right" height="300px" width=350px alt="Unicorn" src="https://i.postimg.cc/B6MRCv3Z/pr.gif" /> -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
