@@ -17,7 +17,7 @@ I am an undergraduate Diploma in Computer in Engineering Student at KIT. C, C++,
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&theme=react)](https://github.com/codemode365/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&hide=html,php,hack&layout=compact)](https://github.com/codemode365/github-readme-stats)
 
  
 ## Github Status 🏆
