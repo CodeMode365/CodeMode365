@@ -22,8 +22,8 @@ I am an undergraduate Diploma in Computer in Engineering Student at KIT. C, C++,
  
 ## Github Status 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=codemode365&show_icons=true&theme=transparent" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codemode365&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=codemode365&show_icons=true&theme=gradient" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=codemode365&theme=gradient" width="48%" >
 <br>
 
 ![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=codemode365&theme=react-dark)
