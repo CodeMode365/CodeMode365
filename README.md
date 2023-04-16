@@ -17,7 +17,9 @@ I am an undergraduate Diploma in Computer in Engineering Student at KIT. Javascr
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&hide=html,php,hack&layout=compact)](https://github.com/codemode365/github-readme-stats)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemode365&amp;hide=html,php,hack&amp;layout=compact" alt="Top Languages Used" width="58%" align="left"/>
+<img src="https://api.daily.dev/devcards/b95a09ad4b4c4698a4c580dc774f5408.png?r=1tz" width="250" alt="Code Mode's Dev Card" />
 
  
 ## Github Status 🏆
@@ -34,7 +36,9 @@ I am an undergraduate Diploma in Computer in Engineering Student at KIT. Javascr
 - Outside tech, 📖 I love to play music and make musics, play different musical instruments, 🎵 listen to music, and 🌴 explore nature outdoors.
 - Reach me at: codemode365@gmail.com
 - Find me on <a href="https://www.linkedin.com/in/pabin-dhami-ab29b024a/">Linkedin</a>
-- 
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CodeMode365/count.svg" />
