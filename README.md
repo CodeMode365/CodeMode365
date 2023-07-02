@@ -28,7 +28,7 @@ I am an undergraduate Diploma in Computer in Engineering Student at KIT. Javascr
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=codemode365&theme=gradient" width="48%" >
 <br>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=codemode365&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=codemode365&theme=react)
 <br>
  
 - 👯 I’m looking forward to collaborate on open source projects.
