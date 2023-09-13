@@ -11,7 +11,7 @@ I am an undergraduate Computer Engineering Student at KIT. Javascript,Typescript
 - 🌱 I’m currently learning ...
   - Js frameworks (Reactjs, Nextjs)
   - Frontend (HTML,Css, JS,TS, React)
-  - Backend (Nodejs, Mongodb, Express)
+  - Backend (Bun, Nodejs, Mongodb, Express, Prisma)
   - Web designing (figma)
   - Graphic Design(Illustrator, Ps)
  # Most preferred Tech compintaion: MERN stack 
