@@ -16,6 +16,7 @@ I am an undergraduate Computer Engineering Student at KIT. Javascript,Typescript
   - State management: Redux,Toolkit, Recoil
   - Web designing (figma)
   - Graphic Design(Illustrator, Ps)
+  - Other topics: Linux, Docer, Aws etc.
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
 
