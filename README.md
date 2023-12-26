@@ -17,7 +17,7 @@ I am an undergraduate Computer Engineering Student at KIT. Javascript,Typescript
   - Web designing (figma)
   - Graphic Design(Illustrator, Ps)
   - DevOps 🤏: AWS, Terraform, Docker, K8S, Jenkins
-  - Other topics: Linux, Docer, Aws etc.
+  - Other topics: Linux etc.
  # Most preferred Tech compintaion: MERN stack 
  ## My Weapons 🌟
 
