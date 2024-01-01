@@ -11,7 +11,7 @@ I am an undergraduate Computer Engineering Student at KIT. Javascript,Typescript
 - 🌱 I’m currently learning ...
   - Js frameworks (Reactjs, Nextjs)
   - Frontend (HTML,Css, JS,TS, React)
-  - Backend (Bunjs, Nodejs, Mongodb, Express, Elysiajs, Prisma)
+  - Backend (Bunjs, Nodejs, Mongodb, MySQL Express, Elysiajs, Prisma)
   - Api (Graphql, REST)
   - State management: Redux,Toolkit, Recoil
   - Web designing (figma)
