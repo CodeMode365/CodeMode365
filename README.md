@@ -13,7 +13,7 @@ I am an undergraduate Computer Engineering Student at KIT. Javascript,Typescript
   - Frontend (HTML,Css, JS,TS, React)
   - Backend (Bunjs, Nodejs, Mongodb, MySQL Express, Elysiajs, Prisma)
   - Api (Graphql, REST)
-  - State management: Redux,Toolkit, Recoil
+  - State management: Redux,Redux Toolkit, Recoil
   - Web designing (figma)
   - Graphic Design(Illustrator, Ps)
   - DevOps 🤏: AWS, Terraform, Docker, K8S, Jenkins
