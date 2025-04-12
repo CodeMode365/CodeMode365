@@ -18,7 +18,7 @@ I am graduated Computer Engineering Student. Javascript,Typescript, Nextjs, Node
   - Graphic Design(Illustrator, Ps)
   - DevOps 🤏: AWS, Terraform, Docker, K8S, Jenkins
   - Other topics: Linux etc.
- # Most preferred Tech compintaion: MERN stack 
+  
  ## My Weapons 🌟
 
 
