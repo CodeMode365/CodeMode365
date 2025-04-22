@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am graduated Computer Engineering Student. Javascript,Typescript, Nextjs, Nodejs, Figma, Mongodb, Adobe photoshop and Adobe Illustrator and abit of devOps are the technologies that I am good at. I love to learn and build something new, productive, innovative and creative.
+I am Engineering Student. Javascript,Typescript, Nextjs, Nodejs, Figma, Mongodb, Adobe photoshop and Adobe Illustrator and abit of devOps are the technologies that I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and Web development**
 - 🌱 I’m currently learning ...
   - Js frameworks (Reactjs, Nextjs)
